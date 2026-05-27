@@ -1,0 +1,100 @@
+{
+    "welcome_message": "أهلاً وسهلاً بك 👋\n\nيرجى اختيار كليتك من القائمة التالية:",
+    "question_received_template": "✅ تم استلام سؤالك بنجاح.\nرقم المرجع: #{reference}\n\nيرجى انتظار الرد.",
+    "already_pending_message": "⚠️ لديك استفسار قيد المعالجة حالياً.\nإذا أردت البدء من جديد اضغط /start",
+    "text_only_message": "⚠️ يرجى إرسال رسالة نصية فقط.",
+    "start_first_message": "يرجى الضغط على /start أولاً ثم اختيار الكلية.",
+    "restart_button_text": "🔄 إعادة البدء",
+    "colleges": {
+        "human_medicine": {
+            "name": "كلية الطب البشري",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "dentistry": {
+            "name": "كلية طب الأسنان",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "pharmacy": {
+            "name": "كلية الصيدلة",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "health_sciences": {
+            "name": "كلية العلوم الصحية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "informatics_engineering": {
+            "name": "كلية الهندسة المعلوماتية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "civil_engineering": {
+            "name": "كلية الهندسة المدنية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "architecture": {
+            "name": "كلية الهندسة المعمارية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "electrical_mechanical_engineering": {
+            "name": "كلية الهندسة الكهربائية والميكانيكية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "petroleum_chemical_engineering": {
+            "name": "كلية الهندسة البترولية والكيميائية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "agricultural_engineering": {
+            "name": "كلية الهندسة الزراعية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "economics": {
+            "name": "كلية الاقتصاد",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "law": {
+            "name": "كلية الحقوق",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "tourism": {
+            "name": "كلية السياحة",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "education": {
+            "name": "كلية التربية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "sciences": {
+            "name": "كلية العلوم",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "arts_humanities": {
+            "name": "كلية الآداب والعلوم الإنسانية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "music": {
+            "name": "كلية الموسيقا",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        },
+        "applied_sciences": {
+            "name": "الكلية التطبيقية",
+            "contact_name": "اسم الشخص المعني",
+            "contact_info": "@username"
+        }
+    }
+}
