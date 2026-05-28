@@ -5,7 +5,9 @@ import logging
 import os
 import re
 from pathlib import Path
-
+import socket
+from aiohttp import TCPConnector
+from aiogram.client.session.aiohttp import AiohttpSession
 from dotenv import load_dotenv
 
 from aiogram import Bot, Dispatcher, F, Router
